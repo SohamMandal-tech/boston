@@ -1,0 +1,3 @@
+- This data was scraped from GitHub using the GitHub API.
+- After analysis, one interesting finding was the high concentration of public repositories in Python and JavaScript.
+- Based on this data, developers in Boston may benefit from collaborating on Python-based projects.
